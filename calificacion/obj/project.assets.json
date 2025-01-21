@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iebs4\\OneDrive - Universidad Tecnológica Metropolitana\\Programacion\\Ejercicios\\calificacion\\promedio.csproj",
-      "projectName": "promedio",
-      "projectPath": "C:\\Users\\iebs4\\OneDrive - Universidad Tecnológica Metropolitana\\Programacion\\Ejercicios\\calificacion\\promedio.csproj",
+      "projectUniqueName": "C:\\Users\\iebs4\\OneDrive - Universidad Tecnológica Metropolitana\\Programacion\\Ejercicios\\calificacion\\calificacion.csproj",
+      "projectName": "calificacion",
+      "projectPath": "C:\\Users\\iebs4\\OneDrive - Universidad Tecnológica Metropolitana\\Programacion\\Ejercicios\\calificacion\\calificacion.csproj",
       "packagesPath": "C:\\Users\\iebs4\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\iebs4\\OneDrive - Universidad Tecnológica Metropolitana\\Programacion\\Ejercicios\\calificacion\\obj\\",
       "projectStyle": "PackageReference",

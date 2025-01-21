@@ -1,0 +1,14 @@
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\bin\Debug\net8.0\calificacion.exe
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\bin\Debug\net8.0\calificacion.deps.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\bin\Debug\net8.0\calificacion.runtimeconfig.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\bin\Debug\net8.0\calificacion.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\bin\Debug\net8.0\calificacion.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\obj\Debug\net8.0\calificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\obj\Debug\net8.0\calificacion.AssemblyInfoInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\obj\Debug\net8.0\calificacion.AssemblyInfo.cs
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\obj\Debug\net8.0\calificacion.csproj.CoreCompileInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\obj\Debug\net8.0\calificacion.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\obj\Debug\net8.0\refint\calificacion.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\obj\Debug\net8.0\calificacion.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\obj\Debug\net8.0\calificacion.genruntimeconfig.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\calificacion\obj\Debug\net8.0\ref\calificacion.dll
