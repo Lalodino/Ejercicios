@@ -1,0 +1,14 @@
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\bin\Debug\net8.0\triangulo.exe
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\bin\Debug\net8.0\triangulo.deps.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\bin\Debug\net8.0\triangulo.runtimeconfig.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\bin\Debug\net8.0\triangulo.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\bin\Debug\net8.0\triangulo.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\triangulo.AssemblyInfoInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\triangulo.AssemblyInfo.cs
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\triangulo.csproj.CoreCompileInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\triangulo.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\refint\triangulo.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\triangulo.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\triangulo.genruntimeconfig.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\ref\triangulo.dll
