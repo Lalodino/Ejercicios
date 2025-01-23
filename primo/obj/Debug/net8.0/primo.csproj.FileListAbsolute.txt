@@ -1,0 +1,15 @@
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\bin\Debug\net8.0\primo.exe
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\bin\Debug\net8.0\primo.deps.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\bin\Debug\net8.0\primo.runtimeconfig.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\bin\Debug\net8.0\primo.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\bin\Debug\net8.0\primo.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\obj\Debug\net8.0\primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\obj\Debug\net8.0\primo.AssemblyInfoInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\obj\Debug\net8.0\primo.AssemblyInfo.cs
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\obj\Debug\net8.0\primo.csproj.CoreCompileInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\obj\Debug\net8.0\primo.sourcelink.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\obj\Debug\net8.0\primo.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\obj\Debug\net8.0\refint\primo.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\obj\Debug\net8.0\primo.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\obj\Debug\net8.0\primo.genruntimeconfig.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\primo\obj\Debug\net8.0\ref\primo.dll

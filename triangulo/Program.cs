@@ -83,6 +83,6 @@ class Program
 
         } while (continuar == "s");
 
-        Console.WriteLine("Gracias por usar la calculadora de áreas. ¡Hasta luego!");
+        Console.WriteLine("¡Hasta luego!");
     }
 }

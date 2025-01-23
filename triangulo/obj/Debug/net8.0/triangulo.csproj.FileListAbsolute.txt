@@ -12,3 +12,4 @@ C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ej
 C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\triangulo.pdb
 C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\triangulo.genruntimeconfig.cache
 C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\ref\triangulo.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\triangulo\obj\Debug\net8.0\triangulo.sourcelink.json

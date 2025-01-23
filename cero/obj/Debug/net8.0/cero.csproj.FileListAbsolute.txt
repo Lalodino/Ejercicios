@@ -1,0 +1,15 @@
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\bin\Debug\net8.0\cero.exe
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\bin\Debug\net8.0\cero.deps.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\bin\Debug\net8.0\cero.runtimeconfig.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\bin\Debug\net8.0\cero.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\bin\Debug\net8.0\cero.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\obj\Debug\net8.0\cero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\obj\Debug\net8.0\cero.AssemblyInfoInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\obj\Debug\net8.0\cero.AssemblyInfo.cs
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\obj\Debug\net8.0\cero.csproj.CoreCompileInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\obj\Debug\net8.0\cero.sourcelink.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\obj\Debug\net8.0\cero.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\obj\Debug\net8.0\refint\cero.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\obj\Debug\net8.0\cero.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\obj\Debug\net8.0\cero.genruntimeconfig.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\Ejercicios\cero\obj\Debug\net8.0\ref\cero.dll
