@@ -45,7 +45,7 @@ class Program
         return true; // Si no se encontró divisor, el número es primo
     }
 
-    /// <summary>
+    /// <summary> 
     /// Pregunta al usuario si desea ejecutar el programa nuevamente.
     /// </summary>
     /// <returns>True si el usuario desea continuar, False en caso contrario</returns>
